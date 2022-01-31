@@ -1,0 +1,12 @@
+table tr td {
+    width: 20px;
+    height: 20px;
+}
+
+.color1 {
+    background-color: #ff0000;
+}
+
+.color2{
+    background-color: black;
+}
